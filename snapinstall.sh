@@ -7,11 +7,6 @@ sudo zypper install -y snapd
 sudo systemctl enable --now snapd
 sudo systemctl enable --now snapd.apparmor
 # install snaps
-sudo snap install signal-desktop
-sudo snap install authy
-sudo snap install bitwarden
-echo "#############################"
-echo "########## Restart ##########"
-echo "#############################"
-
-
+#sudo snap install signal-desktop
+#sudo snap install authy
+#sudo snap install bitwarden
