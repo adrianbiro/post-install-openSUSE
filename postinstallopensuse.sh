@@ -6,7 +6,7 @@ source ./myxfce.sh
 echo "################   Install usefull packages   ###################"
 source ./installzypper.sh
 echo "###################    Installing snap   ########################"
-source ./snapinstall.sh
+source ./snapenable.sh
 echo "######################   Git staff  # ###########################"
 source ./gitstuff.sh
 echo "#################################################################"
