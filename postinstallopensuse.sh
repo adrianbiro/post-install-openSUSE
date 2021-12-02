@@ -12,7 +12,8 @@ source ./gitstuff.sh
 echo "########################   Tarball  #############################"
 source ./tarballinstall.sh
 echo "#########################   Codec  ##############################"
-source ./codecaddinstall.sh
+# Note, this is interactive!
+#source ./codecaddinstall.sh
 echo "#################################################################"
 echo "#################### !!!Reboot now!!! ###########################"
 echo "#################################################################"
