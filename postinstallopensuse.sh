@@ -7,7 +7,7 @@ echo "################   Install usefull packages   ###################"
 source ./installzypper.sh
 echo "###################    Installing snap   ########################"
 source ./snapenable.sh
-echo "######################   Git staff  # ###########################"
+echo "######################   Git stuff  # ###########################"
 source ./gitstuff.sh
 echo "########################   Tarball  #############################"
 source ./tarballinstall.sh
