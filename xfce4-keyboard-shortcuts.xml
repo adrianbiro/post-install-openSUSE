@@ -46,7 +46,7 @@
       <property name="&lt;Primary&gt;&lt;Shift&gt;Escape" type="string" value="/usr/bin/xkill"/>
       <property name="&lt;Shift&gt;Print" type="string" value="/usr/bin/xfce4-screenshooter -r"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Up" type="string" value="/usr/bin/xfce4-popup-windowmenu"/>
-      <property name="&lt;Shift&gt;p" type="string" value="/usr/bin/xfce4-panel"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;i" type="string" value="/home/adrian/appimages/LibreWolf.x86_64.AppImage"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
