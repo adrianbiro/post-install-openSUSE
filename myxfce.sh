@@ -2,7 +2,7 @@
 # custom shortcuts
 cp xfce4-keyboard-shortcuts.xml ~/.config/xfce4/xfconf/xfce-perchannel-xml/
 # custom panel
-cp xfce4-panel.xml ~/.config/xfce4/xfconf/xfce-perchannel-xml/
+#cp xfce4-panel.xml ~/.config/xfce4/xfconf/xfce-perchannel-xml/
 # sudo tar -xzvf panel_on_side.tar.gz -C ~/.config/xfce4/xfconf/xfce-perchannel-xml
 # Changing timezone to Bratislava. To find another use $ "timedatectl list-timezones |less" and search with "/" name_of_zone and quit with "q"
 sudo timedatectl set-timezone Europe/Bratislava
