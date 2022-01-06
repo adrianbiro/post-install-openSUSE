@@ -34,7 +34,6 @@
       <property name="Print" type="string" value="xfce4-screenshooter"/>
       <property name="&lt;Primary&gt;Escape" type="string" value="xfdesktop --menu"/>
       <property name="override" type="bool" value="true"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;d" type="string" value="/usr/bin/dmenu_run"/>
       <property name="&lt;Super&gt;Return" type="string" value="exo-open --launch TerminalEmulator"/>
       <property name="&lt;Super&gt;m" type="string" value="exo-open --launch MailReader"/>
       <property name="&lt;Super&gt;w" type="string" value="exo-open --launch WebBrowser"/>
@@ -46,7 +45,9 @@
       <property name="&lt;Primary&gt;&lt;Shift&gt;Escape" type="string" value="/usr/bin/xkill"/>
       <property name="&lt;Shift&gt;Print" type="string" value="/usr/bin/xfce4-screenshooter -r"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Up" type="string" value="/usr/bin/xfce4-popup-windowmenu"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;i" type="string" value="/home/adrian/appimages/LibreWolf.x86_64.AppImage"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;d" type="string" value="/usr/bin/xfce4-appfinder
+"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;i" type="string" value="/home/adrian/bin/appimages/LibreWolf.x86_64.AppImage"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
