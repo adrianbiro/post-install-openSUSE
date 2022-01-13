@@ -6,5 +6,3 @@ In terminal run:
 * chmod +x postinstallopensuse.sh 
 * \# ./postinstallopensuse.sh
 * reboot 
-* \# ./snapinstall.sh
-* reboot
