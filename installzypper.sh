@@ -9,3 +9,4 @@ sudo zypper install -y dmenu
 sudo zypper install -y xfce4-clipman-plugin 
 sudo zypper install -y xkill
 sudo zypper install -y redshift redshift-gtk bumblebee-status-module-redshift
+sudo zypper install -y tmux
