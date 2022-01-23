@@ -46,7 +46,7 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;Up" type="string" value="/usr/bin/xfce4-popup-windowmenu"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;d" type="string" value="/usr/bin/xfce4-appfinder "/>
       <property name="&lt;Shift&gt;&lt;Super&gt;i" type="string" value="/home/adrian/bin/appimages/LibreWolf.x86_64.AppImage"/>
-      <property name="&lt;Super&gt;e" type="string" value="exo-open --launch TerminalEmulator vim"/>
+      <property name="&lt;Super&gt;e" type="string" value="/usr/bin/mousepad"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
