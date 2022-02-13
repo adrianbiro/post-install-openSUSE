@@ -11,5 +11,6 @@ sudo zypper install -y xkill
 sudo zypper install -y redshift redshift-gtk bumblebee-status-module-redshift
 sudo zypper install -y tmux
 sudo zypper install -y nnn
+sudo zypper install -y entr
 sudo zypper install -y tesseract-ocr-traineddata-czech tesseract-ocr tesseract-ocr-traineddata-english tesseract-ocr-traineddata-german
 sudo zypper install -t pattern devel_basis
