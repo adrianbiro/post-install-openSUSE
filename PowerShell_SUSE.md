@@ -39,3 +39,11 @@ pwsh -command Write-Host "Hello Geekos!" -ForegroundColor Green
 
 pwsh $PSVersionTable
 ```
+
+optional
+
+```bash
+sudo vim /etc/shells
+
+/usr/bin/pwsh
+```
