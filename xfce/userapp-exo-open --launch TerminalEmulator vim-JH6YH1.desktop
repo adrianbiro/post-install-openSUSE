@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+NoDisplay=true
+Exec=exo-open --launch TerminalEmulator vim %f
+Name=exo-open --launch TerminalEmulator vim
+Comment=Custom definition for exo-open --launch TerminalEmulator vim

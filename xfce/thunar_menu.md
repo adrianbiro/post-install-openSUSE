@@ -30,3 +30,9 @@ Command:	exo-open --launch TerminalEmulator /bin/vim %f
 
 [\*] Text Files
 [\*] Other Files
+
+### userapp[...] config file 
+
+```bash
+/home/adrian/.local/share/applications/
+```

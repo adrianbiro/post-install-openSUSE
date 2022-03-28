@@ -17,6 +17,8 @@ tmux \
 entr \
 ncdu \
 bc \
+foliate \
+gnome-documents \
 perl-doc \
 exfatprogs \
 fuse-exfat \
