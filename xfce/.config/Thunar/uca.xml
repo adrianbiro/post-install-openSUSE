@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Open Terminal Here</name>
+	<unique-id>1638642097932525-1</unique-id>
+	<command>exo-open --working-directory %f --launch TerminalEmulator</command>
+	<description>Example for a custom action</description>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon>/home/adrian/bin/gits/post-install/post-install-openSUSE/xfce/vim-icon-30.jpeg</icon>
+	<name>Vimdir</name>
+	<unique-id>1645533297009940-1</unique-id>
+	<command>exo-open --launch TerminalEmulator vim %f</command>
+	<description></description>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon>/home/adrian/bin/gits/post-install/post-install-openSUSE/xfce/vim-icon-30.jpeg</icon>
+	<name>Vim</name>
+	<unique-id>1645533612461682-2</unique-id>
+	<command>exo-open --launch TerminalEmulator /bin/vim %f</command>
+	<description></description>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<other-files/>
+	<text-files/>
+</action>
+</actions>
