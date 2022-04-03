@@ -45,8 +45,10 @@
       <property name="&lt;Shift&gt;Print" type="string" value="/usr/bin/xfce4-screenshooter -r"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Up" type="string" value="/usr/bin/xfce4-popup-windowmenu"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;d" type="string" value="/usr/bin/xfce4-appfinder "/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;i" type="string" value="/home/adrian/bin/appimages/LibreWolf.x86_64.AppImage"/>
       <property name="&lt;Super&gt;e" type="string" value="/usr/bin/mousepad"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;p" type="string" value="/opt/pycharm-community-2021.3.2/bin/pycharm.sh"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;m" type="string" value="/home/adrian/bin/Obsidian"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;i" type="string" value="/home/adrian/bin/LibreWolf"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">

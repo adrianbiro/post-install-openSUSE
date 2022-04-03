@@ -19,6 +19,7 @@ ncdu \
 bc \
 foliate \
 gnome-documents \
+python3-pyperclip \
 perl-doc \
 exfatprogs \
 fuse-exfat \
