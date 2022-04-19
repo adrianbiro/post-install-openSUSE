@@ -23,6 +23,7 @@ python3-pyperclip \
 perl-doc \
 exfatprogs \
 fuse-exfat \
+sqlitebrowser \
 tesseract-ocr-traineddata-czech \
 tesseract-ocr \
 tesseract-ocr-traineddata-english \
